@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="https://cdn.modrinth.com/data/QUvmr7uI/48649ed1ec2ce68a11443372f3e96bc207a3ec07.gif" alt="Preview" width="64"/>
+</p>
+
+
+
+---
+
+<p align="center">
   <img src="https://github.com/Zapak69/potato-bedrock/blob/main/Images/preview1.jpg?raw=true" alt="Preview" width="1920"/>
 </p>
 
