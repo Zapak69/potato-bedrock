@@ -1,5 +1,13 @@
-<p align="side">
-  <img src="https://cdn.modrinth.com/data/QUvmr7uI/48649ed1ec2ce68a11443372f3e96bc207a3ec07.gif" alt="Logo" width="64"/>
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://cdn.modrinth.com/data/QUvmr7uI/48649ed1ec2ce68a11443372f3e96bc207a3ec07.gif" width="128" height="128" alt="Potato Logo"></td>
+      <td>
+        <h1>Potato</h1>
+        <p>A minimal Minecraft resource pack using only 1 pixel per block – made for performance 🍟</p>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
