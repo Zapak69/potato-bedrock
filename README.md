@@ -1,2 +1,3 @@
-# potato-bedrock
-Minecraft Potato Graphics - Bedrock Version
+<p align="center">
+  <img src="https://github.com/Zapak69/potato-bedrock/blob/main/Images/preview1.jpg?raw=true" alt="Preview" width="600"/>
+</p>
