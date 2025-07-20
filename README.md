@@ -4,7 +4,7 @@
       <td><img src="https://cdn.modrinth.com/data/QUvmr7uI/48649ed1ec2ce68a11443372f3e96bc207a3ec07.gif" width="128" height="128" alt="Potato Logo"></td>
       <td>
         <h1>Potato</h1>
-        <p>A minimal Minecraft resource pack using only 1 pixel per block – made for performance 🍟</p>
+        <p>Give your game a hilarious low-end makeover! This pack turns every block into a single pixel, dramatically simplifying textures and boosting performance. Perfect for weak PCs or players who just want that ultimate potato graphics experience. 🍟</p>
       </td>
     </tr>
   </table>
